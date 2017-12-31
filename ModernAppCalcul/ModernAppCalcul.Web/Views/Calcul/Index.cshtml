@@ -1,16 +1,21 @@
-﻿@{
+﻿@model ModernAppCalcul.Web.Models.CalculMensualite
+
+@{
     ViewData["Title"] = "Calcul de mensualité";
+    Layout = "_Layout";
 }
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewData["Message"]</h3>
 
 <p>Calcul des mensualités.</p>
-@*@using (Html.BeginForm())
-{*@
-<form action="~/Calcul/Resultat">
-    Capital à emprunter : <input name="capital" type="text" /><br />
-    Taux annuel (pourcentage) : <input name="tauxAnnuelPrc" type="text" /><br />
-    Durée (nombre de mois) : <input name="duree" type="text" /><br />
-    <input id="send" type="submit" value="Calcul" /><br />
+<form asp-controller="Calcul" asp-action="Resultat" method="post">
+
+    <table>
+        <tr><td>Capital à emprunter (€) : </td><td>@Html.TextBoxFor(model => model.Capital) </td></tr>
+        <tr><td>Taux annuel (%) :  </td><td>@Html.TextBoxFor(model => model.TauxAnnuelPrc) </td></tr>
+        <tr><td>Durée (nombre de mois) :  </td><td>@Html.TextBoxFor(model => model.DureeEnMois) </td></tr>
+
+        <tr><td colspan="2"><input id="send" type="submit" value="Calcul" /></td></tr>
+</table>
+
 </form>
-@*}*@
