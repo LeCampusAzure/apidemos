@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  modernappcalcul.web:
+    image: modernappcalcul.web
+    build:
+      context: .
+      dockerfile: ModernAppCalcul.Web/Dockerfile

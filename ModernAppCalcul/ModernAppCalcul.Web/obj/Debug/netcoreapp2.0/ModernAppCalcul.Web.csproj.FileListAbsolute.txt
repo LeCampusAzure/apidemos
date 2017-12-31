@@ -1,0 +1,11 @@
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\bin\Debug\netcoreapp2.0\ModernAppCalcul.Web.deps.json
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\bin\Debug\netcoreapp2.0\ModernAppCalcul.Web.runtimeconfig.json
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\bin\Debug\netcoreapp2.0\ModernAppCalcul.Web.runtimeconfig.dev.json
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\bin\Debug\netcoreapp2.0\ModernAppCalcul.Web.dll
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\bin\Debug\netcoreapp2.0\ModernAppCalcul.Web.pdb
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.csprojResolveAssemblyReference.cache
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.csproj.CoreCompileInputs.cache
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.AssemblyInfoInputs.cache
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.AssemblyInfo.cs
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.dll
+C:\Repos\api-modernizer\ModernAppCalcul\ModernAppCalcul.Web\obj\Debug\netcoreapp2.0\ModernAppCalcul.Web.pdb
