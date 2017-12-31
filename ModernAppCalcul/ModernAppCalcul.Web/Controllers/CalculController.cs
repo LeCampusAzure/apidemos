@@ -56,7 +56,7 @@ namespace ModernAppCalcul.Web.Controllers
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
-            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "993cf9315c764b62ade073c054869137");
+            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "[your-sub-key]");
 
             dynamic calcul = new {
                     calculMensualite = new CalculMensualite()
@@ -69,7 +69,7 @@ namespace ModernAppCalcul.Web.Controllers
 
             string calculSerialized = JsonConvert.SerializeObject(calcul) ;
             var stringContent = new StringContent(calculSerialized, Encoding.UTF8, "application/json");
-            return await client.PostAsync("https://mza-apis-apim.azure-api.net/CalculMensualite", stringContent);
+            return await client.PostAsync("https://[your-apim].azure-api.net/CalculMensualite", stringContent);
             
         }
     }

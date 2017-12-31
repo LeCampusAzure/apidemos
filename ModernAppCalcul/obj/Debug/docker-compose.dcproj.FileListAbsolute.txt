@@ -1,0 +1,1 @@
+C:\Repos\apidemos\ModernAppCalcul\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

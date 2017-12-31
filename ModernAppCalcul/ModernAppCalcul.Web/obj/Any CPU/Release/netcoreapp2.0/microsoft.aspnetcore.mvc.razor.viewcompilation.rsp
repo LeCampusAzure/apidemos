@@ -1,0 +1,14 @@
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=ModernAppCalcul.Web
+--content-root=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Calcul\Index.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Calcul\Resultat.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Home\About.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Home\Contact.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Home\Index.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Shared\Error.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Shared\_Layout.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\_ViewImports.cshtml
+--file=C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\Views\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+services:
+  modernappcalcul.web:
+    build:
+      context: C:\Repos\apidemos\ModernAppCalcul
+      dockerfile: ModernAppCalcul.Web/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: modernappcalcul.web
+    ports:
+    - 80/tcp
+version: '3.0'

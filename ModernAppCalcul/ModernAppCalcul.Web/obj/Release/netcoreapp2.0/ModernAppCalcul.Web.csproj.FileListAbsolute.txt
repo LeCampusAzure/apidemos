@@ -1,0 +1,10 @@
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\bin\Release\netcoreapp2.0\ModernAppCalcul.Web.deps.json
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\bin\Release\netcoreapp2.0\ModernAppCalcul.Web.runtimeconfig.json
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\bin\Release\netcoreapp2.0\ModernAppCalcul.Web.runtimeconfig.dev.json
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\bin\Release\netcoreapp2.0\ModernAppCalcul.Web.dll
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\bin\Release\netcoreapp2.0\ModernAppCalcul.Web.pdb
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\obj\Release\netcoreapp2.0\ModernAppCalcul.Web.csproj.CoreCompileInputs.cache
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\obj\Release\netcoreapp2.0\ModernAppCalcul.Web.AssemblyInfoInputs.cache
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\obj\Release\netcoreapp2.0\ModernAppCalcul.Web.AssemblyInfo.cs
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\obj\Release\netcoreapp2.0\ModernAppCalcul.Web.dll
+C:\Repos\apidemos\ModernAppCalcul\ModernAppCalcul.Web\obj\Release\netcoreapp2.0\ModernAppCalcul.Web.pdb
